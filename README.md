@@ -29,8 +29,8 @@ A modern, responsive portfolio website built with Next.js, TypeScript, Tailwind 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/hamzaahmed/portfolio.git
-   cd portfolio
+   git clone https://github.com/HamzaAhmed26/hamzaahmedportfolio.git
+   cd hamzaahmedportfolio
    ```
 
 2. **Install dependencies**
@@ -218,9 +218,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Email**: hamza@example.com
 - **LinkedIn**: [Hamza Ahmed](https://linkedin.com/in/hamzaahmed)
-- **GitHub**: [@hamzaahmed](https://github.com/hamzaahmed)
+- **GitHub**: [@HamzaAhmed26](https://github.com/HamzaAhmed26)
 - **Portfolio**: [hamzaahmed.dev](https://hamzaahmed.dev)
 
 ---
 
-Made with ❤️ by Hamza Ahmed 
+Made with ❤️ by Hamza Ahmed
