@@ -217,7 +217,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact
 
 - **Email**: hamza@example.com
-- **LinkedIn**: [Hamza Ahmed](https://linkedin.com/in/hamzaahmed)
+- **LinkedIn**: [Hamza Ahmed](https://www.linkedin.com/in/mrhamzaahmed/)
 - **GitHub**: [@HamzaAhmed26](https://github.com/HamzaAhmed26)
 - **Portfolio**: [hamzaahmed.dev](https://hamzaahmed.dev)
 
